@@ -1,4 +1,4 @@
-## Interface: 60000
+## Interface: 110000
 ## Title: Masque: |c0099ff00Kenzo|r
 ## Version: 2.0.0
 ## Author: icw82
@@ -15,5 +15,6 @@
 ## X-Curse-Project-Name: Masque: Kenzo
 ## X-Curse-Project-ID: masque-kenzo
 ## X-Curse-Repository-ID: wow/masque-kenzo/mainline
+
 
 masque_kenzo.lua
